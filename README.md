@@ -43,20 +43,27 @@ Additional technical indicators such as moving averages and rolling standard dev
 ## 🧩 Project Structure
 
 ├── notebook.ipynb # Data preprocessing, model training, evaluation
-
+├
 ├── app.py # Streamlit app for LSTM next-day prediction
-
+├
 ├── app1.py # Streamlit app for RNN multi-step forecasting
-
+├
 ├── lstm_model.h5 # Trained LSTM model
-
+├
 ├── rnn_model.h5 # Trained SimpleRNN model
+├
 ├── x_scaler.pkl # Scaler for input features
+├
 ├── y_scaler.pkl # Scaler for target variable
+├
 ├── scaler_y.pkl # Target scaler (RNN)
+├
 ├── meta.pkl # Metadata (window size, feature list)
+├
 ├── X_test_seq.npy # Test input sequences
+├
 ├── y_test_seq.npy # Test target values
+├
 └── README.md # Project documentation
 
 
