@@ -55,7 +55,7 @@ Additional technical indicators such as moving averages and rolling standard dev
 ├── X_test_seq.npy         # Test input sequences
 ├── y_test_seq.npy         # Test target values
 └── README.md              # Project documentation
-
+```
 
 
 
